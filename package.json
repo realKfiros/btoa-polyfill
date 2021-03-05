@@ -1,0 +1,26 @@
+{
+  "name": "@kfiros/btoa-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill that adds btoa and atob to projects that don't have it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "realKfiros",
+  "license": "ISC",
+  "devDependencies": {
+    "base-64": "^1.0.0"
+  },
+  "peerDependencies": {
+    "base-64": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realKfiros/btoa-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/realKfiros/btoa-polyfill/issues"
+  },
+  "homepage": "https://github.com/realKfiros/btoa-polyfill#readme"
+}
